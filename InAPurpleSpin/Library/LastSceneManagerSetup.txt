@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/EmptyCubeTwist.unity
+  isLoaded: 1
+  isActive: 1
